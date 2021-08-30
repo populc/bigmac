@@ -3,7 +3,8 @@
 from libs.utils import *
 
 CHANNEL_NAME = 'CanalSur'
-CHANNEL_ACTIVE= False
+CHANNEL_ACTIVE= True
+
 url_base = 'https://www.canalsur.es'
 
 def get_channel():
