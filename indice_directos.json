@@ -1731,6 +1731,12 @@
         "logo": "https://servidor10.xyz/images/itv.png", 
         "options": []
     }, 
+    "Iberoamérica TV": {
+        "ambit": "C. de Madrid", 
+        "label_photocall": "Iberoamérica TV (Madrid)", 
+        "logo": "https://servidor10.xyz/images/iberoamericatv.png | https://photocall.tv/ju2f/l1?ch=iberoamericatv", 
+        "options": []
+    }, 
     "Ibiza Global TV": {
         "ambit": "Musicales", 
         "label_photocall": "", 
@@ -2370,6 +2376,12 @@
         "ambit": "Canarias", 
         "label_photocall": "NORTEvisión (Canarias)", 
         "logo": "https://graph.facebook.com/aljoamyvisual/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "NRG91 Grecia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/NRG91/picture?width=200&height=200", 
         "options": []
     }, 
     "NTN24 América": {
@@ -3885,6 +3897,12 @@
         "ambit": "Int. América", 
         "label_photocall": "", 
         "logo": "https://graph.facebook.com/VTVtuCanal/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Viento Recio RTV": {
+        "ambit": "R. de Murcia", 
+        "label_photocall": "Viento Recio RTV (Murcia)", 
+        "logo": "https://servidor10.xyz/images/vientorecio.png | http://photocall.xyz/ju2f/l2?ch=vientorecio", 
         "options": []
     }, 
     "Villafranca TV": {
