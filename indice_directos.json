@@ -1,0 +1,4057 @@
+{
+    "+24": {
+        "ambit": "Eventuales", 
+        "label_photocall": "", 
+        "logo": "https://img.rtve.es/imagenes/multisenal-24/1361962728583.png", 
+        "options": []
+    }, 
+    "+tdp": {
+        "ambit": "Eventuales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "1 Music Hungria": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/1music/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "101 TV Antequera": {
+        "ambit": "Andalucía", 
+        "label_photocall": "101 TV Málaga Antequera (Andalucía)", 
+        "logo": "https://graph.facebook.com/101tvAntequera/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "101 TV Axarquía": {
+        "ambit": "Andalucía", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/101tvaxarquia/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "101TV Málaga": {
+        "ambit": "Andalucía", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/101tvmalaga/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "11 TV Laredo": {
+        "ambit": "Cantabria", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/11TvCantabria/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "12TV Alicante": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "12 Doce TV Alicante", 
+        "logo": "https://graph.facebook.com/12tv.es/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "24h": {
+        "ambit": "Informativos", 
+        "label_photocall": "24h", 
+        "logo": "https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png", 
+        "options": []
+    }, 
+    "24h Canarias": {
+        "ambit": "Canarias", 
+        "label_photocall": "", 
+        "logo": "https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png", 
+        "options": []
+    }, 
+    "24h Catalunya": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png", 
+        "options": []
+    }, 
+    "24h Chile": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/24horas.cl/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "25 TV": {
+        "ambit": "Cataluña", 
+        "label_photocall": "25 Televisió (Cataluña)", 
+        "logo": "https://graph.facebook.com/298335373532952/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "28 Kanala": {
+        "ambit": "País Vasco", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/28kanala/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "30A Music USA": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/30atv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "324": {
+        "ambit": "Cataluña", 
+        "label_photocall": "324 (Cataluña)", 
+        "logo": "https://graph.facebook.com/324cat/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "33": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/Canal33/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "3ABN USA": {
+        "ambit": "Religiosos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/3abn.org/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "4FUN TV Polonia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/4FUN.TV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "7 La Rioja": {
+        "ambit": "La Rioja", 
+        "label_photocall": "7 La Rioja TV", 
+        "logo": "https://graph.facebook.com/7riojatv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "7 R. de Murcia": {
+        "ambit": "R. de Murcia", 
+        "label_photocall": "7RM Radiotelevisión de la Región de Murcia", 
+        "logo": "https://graph.facebook.com/La7TVRegiondeMurcia/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "7 TeleValencia": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "7TeleValencia", 
+        "logo": "https://pbs.twimg.com/profile_images/1398557359065157634/HnJZTLR-_200x200.jpg", 
+        "options": []
+    }, 
+    "7NN Noticias": {
+        "ambit": "Informativos", 
+        "label_photocall": "7NN 7 Noticias", 
+        "logo": "https://pbs.twimg.com/profile_images/1438490162279981060/yL69CGN9_200x200.jpg", 
+        "options": []
+    }, 
+    "7TV Andalucía": {
+        "ambit": "Andalucía", 
+        "label_photocall": "7TV Andalucía Ondamezquita", 
+        "logo": "https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "8 La Marina TV": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "8 La Marina TV (Valencia)", 
+        "logo": "https://graph.facebook.com/8lamarinatelevision/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "8 TV": {
+        "ambit": "Cataluña", 
+        "label_photocall": "8tv (Cataluña)", 
+        "logo": "https://graph.facebook.com/8tvcat/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "8 TV Cádiz": {
+        "ambit": "Andalucía", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/8tvcadiz/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "8TV Jerez": {
+        "ambit": "Andalucía", 
+        "label_photocall": "8 Andalucía Cádiz Jerez Tuya La Janda", 
+        "logo": "https://graph.facebook.com/8TvJerez/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "9 la Loma TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "9laLoma (Andalucía)", 
+        "logo": "https://graph.facebook.com/9laloma/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "987 Live": {
+        "ambit": "Castilla y León", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/987live/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "ABC Australia": {
+        "ambit": "Int. Otros", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/abcnews.au/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "ABC News USA": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/ABCNews/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "ABC TV Paraguay": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/ABCTVpy/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "ADN40 Mexico": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/ADN40mx/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "AKC TV Dogs": {
+        "ambit": "Int. Otros", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/WatchAKCTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "AS": {
+        "ambit": "Deportivos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/diarioas/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "ATV Andorra": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "RTVA ATV Ràdio i Televisió d'Andorra", 
+        "logo": "https://graph.facebook.com/rtva.andorra/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "ATV Web Andorra": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/rtva.andorra/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Abadia de Montserrat España": {
+        "ambit": "Religiosos", 
+        "label_photocall": "Montserrat TV (Cataluña)", 
+        "logo": "https://estatics.montserratvisita.com/img/imgTxtGenerals/foto_banners_nous_base117.jpg", 
+        "options": []
+    }, 
+    "Activa TV": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "Activa TV (Valencia)", 
+        "logo": "https://servidor10.xyz/images/activatv.png", 
+        "options": []
+    }, 
+    "Afortunadas TV": {
+        "ambit": "Canarias", 
+        "label_photocall": "Afortunadas Televisión (Canarias)", 
+        "logo": "https://graph.facebook.com/afortunadastv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "AfricaNews": {
+        "ambit": "Int. África", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/africanews.channel/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Agencia EFE": {
+        "ambit": "Informativos", 
+        "label_photocall": "Agencia EFE", 
+        "logo": "https://graph.facebook.com/AgenciaEFEnoticias/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Ahora TV": {
+        "ambit": "Canarias", 
+        "label_photocall": "Ahora TV (Canarias)", 
+        "logo": "https://servidor10.xyz/images/ahoratv.png", 
+        "options": []
+    }, 
+    "Al Arabiya Emiratos Árabes": {
+        "ambit": "Int. Asia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/AlArabiya/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Al Jazeera Qatar": {
+        "ambit": "Int. Asia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/aljazeera/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Alacantí TV": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "Alacantí Alcoi TV (Valencia)", 
+        "logo": "https://graph.facebook.com/alacantitv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Alcarria TV": {
+        "ambit": "Castilla-La Mancha", 
+        "label_photocall": "Alcarria TV (Castilla-La Mancha)", 
+        "logo": "https://graph.facebook.com/AlcarriaTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Altar TV": {
+        "ambit": "R. de Murcia", 
+        "label_photocall": "Altar TV (Murcia)", 
+        "logo": "https://servidor10.xyz/images/altartv.png", 
+        "options": []
+    }, 
+    "Alternativa RTV": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "Alternativa RTV (Alemania)", 
+        "logo": "https://servidor10.xyz/images/alternativartv.png", 
+        "options": []
+    }, 
+    "America TeVe USA": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/americateve/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "America's Voice USA": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/RealAmericasVoice/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "American Horrors Movies": {
+        "ambit": "Int. Otros", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/AMERICANHORRORS/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "América TV Argentina": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/AmericaTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Antena 3": {
+        "ambit": "Generalistas", 
+        "label_photocall": "A3 Antena 3", 
+        "logo": "https://graph.facebook.com/antena3/picture?width=200&height=200", 
+        "options": [
+            {
+                "source": "atresplayer", 
+                "url": "/a3?ch=antena3"
+            }
+        ]
+    }, 
+    "Aragón Deporte": {
+        "ambit": "Deportivos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/aragondeporte/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Aragón TV": {
+        "ambit": "Aragón", 
+        "label_photocall": "Aragón TV", 
+        "logo": "https://graph.facebook.com/AragonTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Arirang TV Korea": {
+        "ambit": "Int. Asia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/arirangtv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Ary News Pakistan": {
+        "ambit": "Int. Asia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/arynewsasia/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Atreseries": {
+        "ambit": "Generalistas", 
+        "label_photocall": "A3S Atreseries [geo]", 
+        "logo": "https://graph.facebook.com/atreseries/picture?width=200&height=200", 
+        "options": [
+            {
+                "source": "atresplayer", 
+                "url": "/a3?ch=atreseries"
+            }
+        ]
+    }, 
+    "Atresplayer 1": {
+        "ambit": "Eventuales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/Atresplayer/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Atresplayer 2": {
+        "ambit": "Eventuales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/Atresplayer/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Atresplayer 3": {
+        "ambit": "Eventuales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/Atresplayer/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Auria TV": {
+        "ambit": "Galicia", 
+        "label_photocall": "", 
+        "logo": "https://yt3.ggpht.com/a-/AAuE7mBbJ5XfzqqDgg1IkOk23GJ6JZntYZtYT-n1CA=s200-mo-c-c0xffffffff-rj-k-no", 
+        "options": []
+    }, 
+    "Axarquía TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Axarquía TV", 
+        "logo": "https://graph.facebook.com/AxarquiaTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "BDN": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://pbs.twimg.com/profile_images/1036521245330866177/DFoia74A_200x200.jpg", 
+        "options": []
+    }, 
+    "BFM TV Francia": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/BFMTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "BOM Cine": {
+        "ambit": "Generalistas", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/BOMCINEtv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "BUZZR TV USA": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/BUZZRtv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Bailén TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Bailén TV (Andalucía)", 
+        "logo": "https://graph.facebook.com/BailenTv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Barça TV": {
+        "ambit": "Deportivos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/fcbarcelona/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Be Mad": {
+        "ambit": "Generalistas", 
+        "label_photocall": "Be Mad", 
+        "logo": "https://graph.facebook.com/BeMadTV/picture?width=200&height=200", 
+        "options": [
+            {
+                "source": "mediaset", 
+                "url": "bemad"
+            }
+        ]
+    }, 
+    "Beautiful Piano Music": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/SoothingRelaxation/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Best Cable Sports Perú": {
+        "ambit": "Deportivos Int.", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/BestCableSportsCanal6/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Betania TV España": {
+        "ambit": "Religiosos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/152714321436277/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Betis TV": {
+        "ambit": "Deportivos", 
+        "label_photocall": "Betis TV (Andalucía)", 
+        "logo": "https://graph.facebook.com/realbetisbalompie/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Biosfera TV": {
+        "ambit": "Canarias", 
+        "label_photocall": "Biosfera TV (Canarias)", 
+        "logo": "https://graph.facebook.com/biosferamedia/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Bloomberg Europe": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg", 
+        "options": []
+    }, 
+    "Bloomberg Quicktake": {
+        "ambit": "Int. Otros", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/quicktake/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Bloomberg USA": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://pbs.twimg.com/profile_images/991792042094354432/DG1Ruupb_200x200.jpg", 
+        "options": []
+    }, 
+    "Boing": {
+        "ambit": "Infantiles", 
+        "label_photocall": "Boing", 
+        "logo": "https://graph.facebook.com/boinges/picture?width=200&height=200", 
+        "options": [
+            {
+                "source": "mediaset", 
+                "url": "boing"
+            }
+        ]
+    }, 
+    "Bolivia 7.1 TV": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/BoliviatvOficial/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Bolivia 7.2 TV": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/BoliviatvOficial/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Bon Dia TV": {
+        "ambit": "Cataluña", 
+        "label_photocall": "BD Bon Dia TV (Cataluña)", 
+        "logo": "https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png", 
+        "options": []
+    }, 
+    "Burriana TV": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "BurrianaTeVe (Valencia)", 
+        "logo": "https://graph.facebook.com/burrianateve/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "C33 Madrid": {
+        "ambit": "C. de Madrid", 
+        "label_photocall": "C33 Madrid", 
+        "logo": "https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "C5N Argentina": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/C5N.Noticias/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "CBN USA": {
+        "ambit": "Religiosos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/cbnonline/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "CBS News USA": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/CBSNews/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "CCMA Exclusiu 1": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_200x200.jpg", 
+        "options": []
+    }, 
+    "CCMA Exclusiu 2": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_200x200.jpg", 
+        "options": []
+    }, 
+    "CDN 37 República Dominicana": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/cdn.com.do/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "CGTN": {
+        "ambit": "Int. Asia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/cgtnenespanol/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "CGTN Documentary": {
+        "ambit": "Int. Asia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "CGTN News": {
+        "ambit": "Int. Asia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/ChinaGlobalTVNetwork/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "CNEWS Francia": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/CNEWSofficiel/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "CNN Brasil": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/cnnbrasil/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "CNN Internacional": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/CNNee/picture?width=320&height=320", 
+        "options": []
+    }, 
+    "Cadena Elite España": {
+        "ambit": "Musicales", 
+        "label_photocall": "CE Cadena Élite Granada (Andalucía)", 
+        "logo": "https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Café del Mar Ibiza": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/cafedelmaribizaofficialpage/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Calamocha TV": {
+        "ambit": "Aragón", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/CalamochaTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "California Music Channel USA": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/CaliforniaMusicChannel/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal 10 Empordà": {
+        "ambit": "Cataluña", 
+        "label_photocall": "Canal 10 Empordà (Cataluña)", 
+        "logo": "https://graph.facebook.com/canal10emporda/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal 15tv Zaragoza": {
+        "ambit": "Aragón", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/1266272630094067/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal 2000": {
+        "ambit": "Castilla-La Mancha", 
+        "label_photocall": "Canal 2000 (Castilla-La Mancha)", 
+        "logo": "https://graph.facebook.com/canal2000/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal 21 Ebre": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/canal21televisio/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal 25 Barbastro TV": {
+        "ambit": "Aragón", 
+        "label_photocall": "C25 Televisión local de Barbastro (Aragón)", 
+        "logo": "https://graph.facebook.com/tvbarbastro/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal 33 El Salvador": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/CANAL33.TV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal 4 Mancha Centro": {
+        "ambit": "Castilla-La Mancha", 
+        "label_photocall": "Canal 4 Mancha Centro (Castilla-La Mancha)", 
+        "logo": "https://graph.facebook.com/canal4villarrobledo/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal 4 Telde TV": {
+        "ambit": "Canarias", 
+        "label_photocall": "Canal 4 TV Telde (Canarias)", 
+        "logo": "https://graph.facebook.com/canal4tvtelde/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal 4 Tenerife": {
+        "ambit": "Canarias", 
+        "label_photocall": "Canal 4 Tenerife (Canarias)", 
+        "logo": "https://graph.facebook.com/CANAL4TENERIFE/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal 45 TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/canal45television/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal 54": {
+        "ambit": "Castilla y León", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/Canal54Burgos/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal 56": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "C56 Canal 56 (Valencia)", 
+        "logo": "https://graph.facebook.com/canal56televisio/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal 5TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Canal 5TV (Andalucía)", 
+        "logo": "https://servidor10.xyz/images/canal5tv.png", 
+        "options": []
+    }, 
+    "Canal 6 Multimedios Mexico": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/multimediostv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal 6 Totana": {
+        "ambit": "R. de Murcia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/TotanaWeb/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal 9 Argentina": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/Canal9TV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal Antigua Guatemala": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/canalantigua/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal Blau": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/CanalBlau/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal Capital Colombia": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/CanalCapitalOficial/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal Coín": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Canal Coín (Andalucía)", 
+        "logo": "https://graph.facebook.com/106272064368271/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal Diocesano": {
+        "ambit": "Castilla-La Mancha", 
+        "label_photocall": "Canal Diocesano (Castilla-La Mancha)", 
+        "logo": "https://servidor10.xyz/images/diocesano.png", 
+        "options": []
+    }, 
+    "Canal Doñana": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Doñana Comunicación (Andalucía)", 
+        "logo": "https://yt3.ggpht.com/ytc/AAUvwniAZB2q-vXPojR8-s48qBkScsAsVmJBpZSs6ZkMwA=s200-c-k-c0x00ffffff-no-rj", 
+        "options": []
+    }, 
+    "Canal Extremadura": {
+        "ambit": "Extremadura", 
+        "label_photocall": "Canal Extremadura", 
+        "logo": "https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal IPe Perú": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/canalipe/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal Málaga": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Canal Málaga (Andalucía)", 
+        "logo": "https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal Once Mexico": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/CANALONCETV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal Parlament": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/parlamentcat/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal Parlamento": {
+        "ambit": "Eventuales", 
+        "label_photocall": "Canal Parlamento", 
+        "logo": "https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal Reus TV": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/canalreustelevisio/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal San Roque": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Canal San Roque (Andalucía)", 
+        "logo": "https://graph.facebook.com/multimedia.sanroque/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal Sierra de Cádiz": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Canal Sierra de Cádiz (Andalucía)", 
+        "logo": "https://graph.facebook.com/canalsierradecadiz/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal Sur 2 Andalucía": {
+        "ambit": "Andalucía", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal Sur Andalucía": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Canal Sur (Andalucía)", 
+        "logo": "https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal TRO Colombia": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/canaltro/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal Taronja Anoia": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/canaltaronjaanoia/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal Taronja Central": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/taronja.cat/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal Taronja Osona i Moianés": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/TaronjaTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal Telecaribe Colombia": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/Telecaribe/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal Terrassa": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/canalterrassa/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canal Terres de l'Ebre": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/canal.terresdelebre/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "CanalCosta": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Canalcosta\\/Condavisión (Andalucía)", 
+        "logo": "https://graph.facebook.com/canalcosta/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "CanalImagen Almansa": {
+        "ambit": "Castilla-La Mancha", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/TvAlmansa/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Canalcosta/Condavisión": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Canalcosta/Condavisión (Andalucía)", 
+        "logo": "https://servidor10.xyz/images/cc.png", 
+        "options": []
+    }, 
+    "Cancionero TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Cancionero Televisión (Andalucía)", 
+        "logo": "https://www.cancionero.es/portal/images/imagesweb/LogoTV_Trans.png", 
+        "options": []
+    }, 
+    "Cantabria TV": {
+        "ambit": "Cantabria", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/vegavisiontvcantabria/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Cartoon Network Latino": {
+        "ambit": "Infantiles", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Castilla-La Mancha Media": {
+        "ambit": "Castilla-La Mancha", 
+        "label_photocall": "CMM Castilla-La Mancha Media", 
+        "logo": "https://graph.facebook.com/CMMediaes/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Cetelmon TV España": {
+        "ambit": "Religiosos", 
+        "label_photocall": "Cetelmon (Valencia)", 
+        "logo": "https://graph.facebook.com/cetelmon.television/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Ceuta TV": {
+        "ambit": "Ceuta", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/CeutaTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Channel Fight": {
+        "ambit": "Deportivos Int.", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/channelfightofficial/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Channel NewsAsia": {
+        "ambit": "Int. Asia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/ChannelNewsAsia/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Channels TV Nigeria": {
+        "ambit": "Int. África", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/channelsforum/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Cheddar USA": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/cheddar/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Ciudad Real TV": {
+        "ambit": "Castilla-La Mancha", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/1765736930414544/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Ciudades Del Ocio TV": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "Ciudades del ocio TV (Valencia)", 
+        "logo": "https://graph.facebook.com/CiudadesDelOcioTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Clan": {
+        "ambit": "Infantiles", 
+        "label_photocall": "Clan [geo]", 
+        "logo": "https://graph.facebook.com/clantve/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Classic Arts Showcase": {
+        "ambit": "Int. Otros", 
+        "label_photocall": "", 
+        "logo": "https://pbs.twimg.com/profile_images/956583141245775872/2en3-8Ag_200x200.jpg", 
+        "options": []
+    }, 
+    "Color Visión República Dominicana": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/colorvisionc9/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Condavisión": {
+        "ambit": "Andalucía", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/condavision/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Congreso de los Diputados": {
+        "ambit": "Eventuales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Corto Films": {
+        "ambit": "Otros", 
+        "label_photocall": "Corto Films", 
+        "logo": "https://servidor10.xyz/images/cortofilms.png", 
+        "options": []
+    }, 
+    "Corts Valencianes": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/cortsval/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Costa Noroeste TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Costa Noroeste TV (Andalucía)", 
+        "logo": "https://graph.facebook.com/Costanoroestetv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "CostadelSol TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Costa del Sol TV (Andalucía)", 
+        "logo": "https://graph.facebook.com/costadelsoltv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "CourtTV USA": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/courttv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Cuatro": {
+        "ambit": "Generalistas", 
+        "label_photocall": "4 Cuatro", 
+        "logo": "https://graph.facebook.com/cuatro/picture?width=200&height=200", 
+        "options": [
+            {
+                "source": "mediaset", 
+                "url": "cuatro"
+            }
+        ]
+    }, 
+    "Cubavisión TV": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/CubavisionInternacional/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Cugat Mèdia": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/cugatmedia/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Current Time TV": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/currenttimetv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Cáceres Tevé": {
+        "ambit": "Extremadura", 
+        "label_photocall": "Cáceres Tevé (Extremadura)", 
+        "logo": "https://graph.facebook.com/caceresteve/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Cádiz CF TV": {
+        "ambit": "Deportivos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/cadizclubdefutbol/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Código TV": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "Código TV (Valencia)", 
+        "logo": "https://servidor10.xyz/images/codigotv.png", 
+        "options": []
+    }, 
+    "Córdoba TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Córdoba TV (Andalucía)", 
+        "logo": "https://graph.facebook.com/cordobatvonline/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "DH Déjate de Historias TV": {
+        "ambit": "C. de Madrid", 
+        "label_photocall": "DH Déjate de Historias TV (Madrid)", 
+        "logo": "https://servidor10.xyz/images/dh.png", 
+        "options": []
+    }, 
+    "DKISS": {
+        "ambit": "Generalistas", 
+        "label_photocall": "DKISS", 
+        "logo": "https://graph.facebook.com/DKissTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "DMAX": {
+        "ambit": "Generalistas", 
+        "label_photocall": "DMAX", 
+        "logo": "https://graph.facebook.com/DMAXes/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "DMAX Discovery Italia": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/dmaxitalia/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "DW Alemania": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/dw.espanol/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "DanceStar TV": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/DancestarTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Das Erste Alemania": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/DasErste/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "De sábado con Christian Gálvez": {
+        "ambit": "Eventuales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/SabadoCADENA100/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Del 40 al 1": {
+        "ambit": "Eventuales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/del40al1/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Diez TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Diez TV (Andalucía)", 
+        "logo": "https://graph.facebook.com/dieztv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Distrito TV": {
+        "ambit": "C. de Madrid", 
+        "label_photocall": "Distrito TV (Madrid)", 
+        "logo": "https://graph.facebook.com/2004860103163343/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Ditty TV USA": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/DittyTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Divinity": {
+        "ambit": "Generalistas", 
+        "label_photocall": "Divinity", 
+        "logo": "https://graph.facebook.com/divinityes/picture?width=200&height=200", 
+        "options": [
+            {
+                "source": "mediaset", 
+                "url": "divinity"
+            }
+        ]
+    }, 
+    "Dubai One Emiratos Árabes": {
+        "ambit": "Int. Asia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/dubaionetv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Durangaldeko TV": {
+        "ambit": "País Vasco", 
+        "label_photocall": "dotb Durangaldeko Telebista (País Vasco)", 
+        "logo": "https://graph.facebook.com/dotbDurangaldekoTelebista/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Déjate de Historias TV": {
+        "ambit": "C. de Madrid", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/DejateDeHistoriasTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "EITB Basque": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/eitb/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "ETB 1": {
+        "ambit": "País Vasco", 
+        "label_photocall": "ETB Euskal Irrati Telebista (País Vasco)", 
+        "logo": "https://graph.facebook.com/eitb/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "ETB 2": {
+        "ambit": "País Vasco", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/eitb/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "ETB Deportes": {
+        "ambit": "Deportivos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "ETB Eventos 1": {
+        "ambit": "País Vasco", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/eitb/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "ETB Eventos 2": {
+        "ambit": "País Vasco", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/eitb/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "EWTN España": {
+        "ambit": "Religiosos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/ewtnespanol/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "El 10 del Barça": {
+        "ambit": "Deportivos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/El10delBarsa/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "El 9 TV": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/el9nou/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "El Comercio Audiovisual": {
+        "ambit": "P. de Asturias", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/canal10videosasturias/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "El Faro": {
+        "ambit": "Ceuta", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/ElFarodeCeuta/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "El Financiero Mexico": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/ElFinancieroMx/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "El Mundo": {
+        "ambit": "Otros", 
+        "label_photocall": "El Mundo", 
+        "logo": "https://servidor10.xyz/images/elmundo.png", 
+        "options": []
+    }, 
+    "El País": {
+        "ambit": "Informativos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/elpais/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "El Sembrador TV Europa": {
+        "ambit": "Religiosos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/elsembradoresne/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "El Toro TV": {
+        "ambit": "Generalistas", 
+        "label_photocall": "El Toro TV IntereconomíaTV", 
+        "logo": "https://graph.facebook.com/eltorotv.es/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "El Toro Valencia TV": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/radiointereconomiavalencia1071/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Elche 7 TV": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "Elche TV (Valencia)", 
+        "logo": "https://pbs.twimg.com/profile_images/1350010679554695169/WXojvq15_200x200.jpg", 
+        "options": []
+    }, 
+    "Emmanuel TV Nigeria": {
+        "ambit": "Religiosos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/tbjoshuaespanol/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Empordà TV": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/empordatv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Energy": {
+        "ambit": "Generalistas", 
+        "label_photocall": "Energy", 
+        "logo": "https://graph.facebook.com/E.EnergyTV/picture?width=200&height=200", 
+        "options": [
+            {
+                "source": "mediaset", 
+                "url": "energy"
+            }
+        ]
+    }, 
+    "Enlace TV Costa Rica": {
+        "ambit": "Religiosos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/enlacetv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Entertainment Tonight USA": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/EntertainmentTonight/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Erlo TV": {
+        "ambit": "País Vasco", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/542582126141223/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "EsAsturiasTV": {
+        "ambit": "P. de Asturias", 
+        "label_photocall": "EsAsturias TV", 
+        "logo": "https://graph.facebook.com/EsAsturiasTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Esport 3": {
+        "ambit": "Deportivos", 
+        "label_photocall": "E3 Esport3 (Cataluña)", 
+        "logo": "https://graph.facebook.com/Esport3/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Estepona TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Canal 43 Estepona y Manilva (Andalucía)", 
+        "logo": "https://graph.facebook.com/esteponatelevision/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Estrella del Pilar": {
+        "ambit": "C. de Madrid", 
+        "label_photocall": "Estrella del Pilar (Madrid)", 
+        "logo": "https://servidor10.xyz/images/estrelladelpilar.png", 
+        "options": []
+    }, 
+    "EuroLatina TV España": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/eurolatinatelevisioneuropa/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Euronews": {
+        "ambit": "Informativos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/es.euronews/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Euronews Internacional": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/es.euronews/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Excelsior Mexico": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/ExcelsiorMex/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Exiled": {
+        "ambit": "C. de Madrid", 
+        "label_photocall": "Exiled (Madrid)", 
+        "logo": "https://servidor10.xyz/images/exiled.png", 
+        "options": []
+    }, 
+    "Exitosa Noticias Perú": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/Exitosanoticias/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Express News Pakistan": {
+        "ambit": "Int. Asia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/expressnewspk/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "FDF": {
+        "ambit": "Generalistas", 
+        "label_photocall": "FDF Factoría de Ficción", 
+        "logo": "https://graph.facebook.com/factoriadeficcion/picture?width=200&height=200", 
+        "options": [
+            {
+                "source": "mediaset", 
+                "url": "fdf"
+            }
+        ]
+    }, 
+    "FIBA": {
+        "ambit": "Deportivos Int.", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/FIBA/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "FOX News USA": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/FOXNews/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Fabulosa FM": {
+        "ambit": "R. de Murcia", 
+        "label_photocall": "Fabulosa FM (Murcia)", 
+        "logo": "https://servidor10.xyz/images/fabulosa.png", 
+        "options": []
+    }, 
+    "Fashion TV": {
+        "ambit": "Int. Otros", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/FTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "FedHielo TV": {
+        "ambit": "Deportivos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/fedhielo/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Fibracat TV": {
+        "ambit": "Cataluña", 
+        "label_photocall": "Fibracat (Cataluña)", 
+        "logo": "https://graph.facebook.com/fibracat/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Fibwi": {
+        "ambit": "Illes Balears", 
+        "label_photocall": "Fibwi (Baleares)", 
+        "logo": "https://graph.facebook.com/GrupoFibwi/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "First Music Channel Bielorrusia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/onemusicchannel/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "France 24 Francia": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/FRANCE24/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Fuengirola TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Fuengirola Televisión (Andalucía)", 
+        "logo": "https://graph.facebook.com/fuengirolatvoficial/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "GB News UK": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/GBNewsOnline/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "GBC Gibraltar": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/GBCNewsroom/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "GCM TV": {
+        "ambit": "C. de Madrid", 
+        "label_photocall": "Grupo Cadena Media (Madrid)", 
+        "logo": "https://graph.facebook.com/100146922067408/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "GOL TV": {
+        "ambit": "Deportivos", 
+        "label_photocall": "GOL", 
+        "logo": "https://graph.facebook.com/goltv.es/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Garage TV": {
+        "ambit": "Deportivos Int.", 
+        "label_photocall": "", 
+        "logo": "https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg", 
+        "options": []
+    }, 
+    "Geo News Pakistan": {
+        "ambit": "Int. Asia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/GeoUrduDotTv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Globovision Venezuela": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/globovision/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Goiena Eus": {
+        "ambit": "País Vasco", 
+        "label_photocall": "Goiena Komunikazio Taldea (País Vasco)", 
+        "logo": "https://graph.facebook.com/goiena.eus/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Goierri Irrati TV": {
+        "ambit": "País Vasco", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/GoierriIrratiTelebista/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Gotv TV Austria": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/GOTVat/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "GranCanariaTV.com": {
+        "ambit": "Canarias", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/GranCanariaTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Guada TV": {
+        "ambit": "Castilla-La Mancha", 
+        "label_photocall": "GuadaTV (Castilla-La Mancha)", 
+        "logo": "https://graph.facebook.com/GuadaTV.TV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Guadalajara Media": {
+        "ambit": "Castilla-La Mancha", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/canalguadalajara/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "HCH Honduras": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://pbs.twimg.com/profile_images/1480632196700553221/PMOJVZBd_200x200.jpg", 
+        "options": []
+    }, 
+    "Hamaika TV": {
+        "ambit": "País Vasco", 
+        "label_photocall": "11 Hamaika Telebista Hedatzeko Taldea (País Vasco)", 
+        "logo": "https://graph.facebook.com/HamaikaTb/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Harley Davidson Factory TV": {
+        "ambit": "Deportivos Int.", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/harley-davidson/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Harley Davidson Garage TV": {
+        "ambit": "Deportivos Int.", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/harley-davidson/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Harley Davidson Racing TV": {
+        "ambit": "Deportivos Int.", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/harley-davidson/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Harley Davidson Rides TV": {
+        "ambit": "Deportivos Int.", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/harley-davidson/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Harley Davidson TV": {
+        "ambit": "Deportivos Int.", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/harley-davidson/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Hermes TV": {
+        "ambit": "Galicia", 
+        "label_photocall": "Hermes TV (Galicia)", 
+        "logo": "https://graph.facebook.com/491789551017784/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Hispan TV Iran": {
+        "ambit": "Int. Asia", 
+        "label_photocall": "HispanTV", 
+        "logo": "https://pbs.twimg.com/profile_images/1399973032349863937/hkQtV-73_200x200.jpg", 
+        "options": []
+    }, 
+    "Hit Music Hungria": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/hitmusichu/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "HqM Arabic": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://statics.yowi.tv/files/9ca47a796a3a78ccab8c0ee65df88f87b1a6be18", 
+        "options": []
+    }, 
+    "HqM Baladas": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://statics.yowi.tv/files/1abd8b81fc6ff13a8093f8af52af36e351429895", 
+        "options": []
+    }, 
+    "HqM Blues": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://statics.yowi.tv/files/72ca2eeb697bef62901fd272d528df7ac8d5cc48", 
+        "options": []
+    }, 
+    "HqM Chill Out": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://statics.yowi.tv/files/7efb6dad83e3fa171f4265eec9a5ab2c1d4d5bd4", 
+        "options": []
+    }, 
+    "HqM Classic": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://statics.yowi.tv/files/68e0b26ca4f7b085560ed873c13cf0ee09a549c3", 
+        "options": []
+    }, 
+    "HqM Dance": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://statics.yowi.tv/files/cb2b44e0f7fb98f4cae80bb452f166f764c2c8c2", 
+        "options": []
+    }, 
+    "HqM Folk": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://statics.yowi.tv/files/62f5e3df94dc181ef022c5d430823a3f97690ffd", 
+        "options": []
+    }, 
+    "HqM Gym": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://statics.yowi.tv/files/51387639e8e1a6f998ab94d2fabcadc63df76262", 
+        "options": []
+    }, 
+    "HqM Hip Hop": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://statics.yowi.tv/files/c56e2bd963790c573bab04bd8a752beb83efafad", 
+        "options": []
+    }, 
+    "HqM Hits": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://statics.yowi.tv/files/73aab7905b1561178b40f69820f11986207cb394", 
+        "options": []
+    }, 
+    "HqM Jazz": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://statics.yowi.tv/files/bef71c2b4b99be9a83c69483e4e679222826a28c", 
+        "options": []
+    }, 
+    "HqM Kids": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://statics.yowi.tv/files/7465fad898ca5c3a6832731cc390e6362d968115", 
+        "options": []
+    }, 
+    "HqM Latin": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://statics.yowi.tv/files/c397988fd977682a1ae822290f20f69b0554dfea", 
+        "options": []
+    }, 
+    "HqM Pop": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://statics.yowi.tv/files/74530e0066bb2b1179bc3d1852abf035f5a2ad54", 
+        "options": []
+    }, 
+    "HqM Relax": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://statics.yowi.tv/files/961f5fd08b37fceb794a18ad662d3f420fa5f7e1", 
+        "options": []
+    }, 
+    "HqM Remember": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://statics.yowi.tv/files/22b879b8e06cc29689254625cd52b362719aacc3", 
+        "options": []
+    }, 
+    "HqM Rock": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://statics.yowi.tv/files/402e054f5c92c72fd948fee55a4f1acb29147746", 
+        "options": []
+    }, 
+    "HqM Spanish": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://statics.yowi.tv/files/f8584df7f64546f70a346ef301ec2e49c6e91d92", 
+        "options": []
+    }, 
+    "Huelva TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "HTV Huelva televisión (Andalucía)", 
+        "logo": "https://graph.facebook.com/Huelvatv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "IB3 Esports": {
+        "ambit": "Deportivos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/EsportsIB3/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "IB3 Global": {
+        "ambit": "Illes Balears", 
+        "label_photocall": "IB3 (Baleares)", 
+        "logo": "https://graph.facebook.com/IB3org/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "ITV Información TV": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "ITV Información TV (Valencia)", 
+        "logo": "https://servidor10.xyz/images/itv.png", 
+        "options": []
+    }, 
+    "Ibiza Global TV": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/ibizaglobaltv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Imás TV": {
+        "ambit": "Castilla-La Mancha", 
+        "label_photocall": "Imas TV (Castilla-La Mancha)", 
+        "logo": "https://graph.facebook.com/television.imas/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "India Today": {
+        "ambit": "Int. Asia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/IndiaToday/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "InfoCanal Almansa": {
+        "ambit": "Castilla-La Mancha", 
+        "label_photocall": "TV Almansa (Castilla-La Mancha)", 
+        "logo": "https://graph.facebook.com/TvAlmansa/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Interalmería TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "INTV Interalmeria (Andalucía)", 
+        "logo": "https://graph.facebook.com/Interalmeriatv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Intercomarcal TV": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "IC Intercomarcal", 
+        "logo": "https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Islatel": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Islatel (Andalucía)", 
+        "logo": "https://graph.facebook.com/101523104600501/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Jerez TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/jerez.television/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Joy News TV Ghana": {
+        "ambit": "Int. África", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/JoyNewsOnTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Junta Castilla y León": {
+        "ambit": "Castilla y León", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/juntadecastillayleon/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "KBS World Korea": {
+        "ambit": "Int. Asia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/KBSWORLD/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Kids TV": {
+        "ambit": "Infantiles", 
+        "label_photocall": "Kids TV", 
+        "logo": "https://servidor10.xyz/images/kidstv.png", 
+        "options": []
+    }, 
+    "Kronehit Austria": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/kronehit/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "LEGO Friends": {
+        "ambit": "Infantiles", 
+        "label_photocall": "", 
+        "logo": "https://pbs.twimg.com/profile_images/378800000257143498/6dbc45c353f641ef85ca51f75533a7e1_200x200.jpeg", 
+        "options": []
+    }, 
+    "LN24 Bélgica": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/LN24LesNews24/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "La 1": {
+        "ambit": "Generalistas", 
+        "label_photocall": "La 1 [geo eventual]", 
+        "logo": "https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg", 
+        "options": []
+    }, 
+    "La 1 Aragón": {
+        "ambit": "Aragón", 
+        "label_photocall": "", 
+        "logo": "https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg", 
+        "options": []
+    }, 
+    "La 1 Canarias": {
+        "ambit": "Canarias", 
+        "label_photocall": "", 
+        "logo": "https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg", 
+        "options": []
+    }, 
+    "La 1 Catalunya": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg", 
+        "options": []
+    }, 
+    "La 2": {
+        "ambit": "Generalistas", 
+        "label_photocall": "La 2 [geo eventual]", 
+        "logo": "https://graph.facebook.com/la2detve/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "La 2 Canarias": {
+        "ambit": "Canarias", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/la2detve/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "La 2 Catalunya": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/la2detve/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "La 7": {
+        "ambit": "Castilla y León", 
+        "label_photocall": "7 RTVCyL Radio Televisión (Castilla y León)", 
+        "logo": "https://graph.facebook.com/cyltv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "La 8": {
+        "ambit": "Castilla y León", 
+        "label_photocall": "8 RTVCyL Radio Televisión (Castilla y León)", 
+        "logo": "https://servidor10.xyz/images/cyltv_8.png", 
+        "options": []
+    }, 
+    "La 8 Avila": {
+        "ambit": "Castilla y León", 
+        "label_photocall": "", 
+        "logo": "https://pbs.twimg.com/profile_images/1364545643319087104/7qp4nrtS_200x200.jpg", 
+        "options": []
+    }, 
+    "La 8 Bierzo": {
+        "ambit": "Castilla y León", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/La8Bierzo/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "La 8 Burgos": {
+        "ambit": "Castilla y León", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/La8Burgos/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "La 8 Leon": {
+        "ambit": "Castilla y León", 
+        "label_photocall": "", 
+        "logo": "https://pbs.twimg.com/profile_images/1367754156711288839/c01QAS89_200x200.jpg", 
+        "options": []
+    }, 
+    "La 8 Mediterráneo": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "8 La Ocho Mediterráneo (Valencia)", 
+        "logo": "https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "La 8 Palencia": {
+        "ambit": "Castilla y León", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/La8Palencia/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "La 8 Salamanca": {
+        "ambit": "Castilla y León", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/la8salamanca/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "La 8 Segovia": {
+        "ambit": "Castilla y León", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/la8segovia/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "La 8 Soria": {
+        "ambit": "Castilla y León", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/La8Soria/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "La 8 Valladolid": {
+        "ambit": "Castilla y León", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/la8valladolid/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "La 8 Zamora": {
+        "ambit": "Castilla y León", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/la8zamora/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "La Karibeña Perú": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/LaKaribena/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "La Mega Mundial USA": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/lamegaworldwide/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "La Moncloa": {
+        "ambit": "Otros", 
+        "label_photocall": "La Moncloa", 
+        "logo": "https://servidor10.xyz/images/lamoncloa.png", 
+        "options": []
+    }, 
+    "La Moncloa (Ministros)": {
+        "ambit": "Eventuales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/PalaciodelaMoncloa/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "La Moncloa (Presidente)": {
+        "ambit": "Eventuales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/PalaciodelaMoncloa/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "La Nación Argentina": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/lanacion/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "La Tele Tuya Venezuela": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/LaTeleTuya/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "La Urban TV España": {
+        "ambit": "Musicales", 
+        "label_photocall": "La Urban TV (Madrid)", 
+        "logo": "https://graph.facebook.com/fmurban/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "La Vanguardia": {
+        "ambit": "Informativos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/LaVanguardia/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "La Xarxa": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/laxarxa/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "LaLiga Santander": {
+        "ambit": "Deportivos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/LaLiga/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "LaLiga SmartBank": {
+        "ambit": "Deportivos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/LaLiga/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "LaOtra": {
+        "ambit": "C. de Madrid", 
+        "label_photocall": "Telemadrid la Otra", 
+        "logo": "https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg", 
+        "options": []
+    }, 
+    "Lancelot TV": {
+        "ambit": "Canarias", 
+        "label_photocall": "Lancelot Televisión (Canarias)", 
+        "logo": "https://graph.facebook.com/288850935035196/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Latin Channel TV": {
+        "ambit": "C. de Madrid", 
+        "label_photocall": "Latin Channel TV (Madrid)", 
+        "logo": "https://servidor10.xyz/images/latinchanneltv.png", 
+        "options": []
+    }, 
+    "Latinos TV": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "Latinos TV (Valencia)", 
+        "logo": "https://servidor10.xyz/images/latinostv.png", 
+        "options": []
+    }, 
+    "Lebrija TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "LTV Lebrija Televisión Trebujena (Andalucía)", 
+        "logo": "https://graph.facebook.com/lebrijatelevision/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Levante TV": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "Levante TV (Valencia)", 
+        "logo": "https://graph.facebook.com/levantetv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Libertad Digital TV": {
+        "ambit": "Informativos", 
+        "label_photocall": "Libertad Digital Televisión", 
+        "logo": "https://graph.facebook.com/libertad.digital.tv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Little Baby Bum": {
+        "ambit": "Infantiles", 
+        "label_photocall": "", 
+        "logo": "https://yt3.ggpht.com/a/AATXAJwn3r9U07S7ZOqoGZLUbuYHWiIqpE8xuLJsyg=s200-c-k-c0xffffffff-no-rj-mo", 
+        "options": []
+    }, 
+    "Lleida TV": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/LleidaTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "LoFi Hip-Hop Beats Music": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://pbs.twimg.com/profile_images/1155872804786466817/z1k1zxIi_200x200.jpg", 
+        "options": []
+    }, 
+    "Locomotion TV": {
+        "ambit": "Int. Otros", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/locomotionxtv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Logos TV": {
+        "ambit": "C. de Madrid", 
+        "label_photocall": "Logos TV (Madrid)", 
+        "logo": "https://servidor10.xyz/images/logostv.png", 
+        "options": []
+    }, 
+    "M95 Marbella": {
+        "ambit": "Andalucía", 
+        "label_photocall": "M95 Televisión Marbella (Andalucía)", 
+        "logo": "https://graph.facebook.com/m95tvmarbella/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "MARCA": {
+        "ambit": "Deportivos", 
+        "label_photocall": "Marca", 
+        "logo": "https://graph.facebook.com/MARCA/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Maestrat TV": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "Maestrat TV (Valencia)", 
+        "logo": "https://graph.facebook.com/maestrat.tv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Manzanares10TV": {
+        "ambit": "Castilla-La Mancha", 
+        "label_photocall": "Manzanares10TV (Castilla-La Mancha)", 
+        "logo": "https://graph.facebook.com/Manzanares10TV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Mar TV": {
+        "ambit": "Cataluña", 
+        "label_photocall": "Mar TV (Cataluña)", 
+        "logo": "https://graph.facebook.com/martelevisio/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Marbella TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "RTV Marbella (Andalucía)", 
+        "logo": "https://graph.facebook.com/RTVMarbella/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "María Visión Mexico": {
+        "ambit": "Religiosos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/mariavision/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Mataró Audiovisual": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://pbs.twimg.com/profile_images/1462469660226592772/MG4pwTJT_200x200.png", 
+        "options": []
+    }, 
+    "Medial TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/MEDIALTELEVISION/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "MedicosTV": {
+        "ambit": "Otros", 
+        "label_photocall": "MedicosTV", 
+        "logo": "https://servidor10.xyz/images/medicostv.png", 
+        "options": []
+    }, 
+    "Mega": {
+        "ambit": "Generalistas", 
+        "label_photocall": "Mega [geo]", 
+        "logo": "https://graph.facebook.com/megaTDT/picture?width=200&height=200", 
+        "options": [
+            {
+                "source": "atresplayer", 
+                "url": "/a3?ch=mega"
+            }
+        ]
+    }, 
+    "Meganoticias Chile": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/meganoticiascl/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Melilla TV": {
+        "ambit": "Melilla", 
+        "label_photocall": "TVM Televisión Melilla", 
+        "logo": "https://graph.facebook.com/TelevisionMelilla/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Melody Channel Colombia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/melodychanneltv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Meridiano Venezuela": {
+        "ambit": "Deportivos Int.", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/Meridiano.Dearmas/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Mexico Travel TV": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/MexicoTravelChannelTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Miami TV": {
+        "ambit": "Int. Otros", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/miamitv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Mijas 3.40 TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Mijas 3.40 Televisión (Andalucía)", 
+        "logo": "https://graph.facebook.com/MijasComunicacion/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Milenio Mexico": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/MilenioDiario/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Molahits TV España": {
+        "ambit": "Musicales", 
+        "label_photocall": "MolahitsTV (Cataluña)", 
+        "logo": "https://graph.facebook.com/molahitstv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "MotorTrend Italia": {
+        "ambit": "Deportivos Int.", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/motortrendIT/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Mr Bean 24h": {
+        "ambit": "Int. Otros", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/MrBean/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "MsMotor TV": {
+        "ambit": "Deportivos Int.", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/msmotortv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Music Top Argentina": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/MusictopArgentina/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Muzzik Cafe&Club Serbia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png", 
+        "options": []
+    }, 
+    "Muzzik Glazzba Serbia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png", 
+        "options": []
+    }, 
+    "Muzzik Jeka Serbia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/jekamuzziktv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Muzzik OKK Serbia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png", 
+        "options": []
+    }, 
+    "Muzzik Rivijera Serbia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png", 
+        "options": []
+    }, 
+    "Muzzik Rock&Roll Serbia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png", 
+        "options": []
+    }, 
+    "Muzzik Sense Serbia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png", 
+        "options": []
+    }, 
+    "Muzzik T REX Serbia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png", 
+        "options": []
+    }, 
+    "Muzzik TV Serbia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png", 
+        "options": []
+    }, 
+    "Muzzik Worldwide Serbia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png", 
+        "options": []
+    }, 
+    "Muzzik ZZ 4000 Serbia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png", 
+        "options": []
+    }, 
+    "Muzzik ZZ TV Serbia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png", 
+        "options": []
+    }, 
+    "Málaga 24h TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Málaga 24 Horas TV (Andalucía)", 
+        "logo": "https://graph.facebook.com/Malaga24hTv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Más Jerez": {
+        "ambit": "Andalucía", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/masjerez/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Mírame TV": {
+        "ambit": "Canarias", 
+        "label_photocall": "Mírame TV (Canarias)", 
+        "logo": "https://graph.facebook.com/MirameTVCanarias/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "NASA TV ISS Views": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/NASA/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "NASA TV Media": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/NASA/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "NASA TV Public": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/NASA/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "NBC News USA": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/NBCNews/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "NBS TV Uganda": {
+        "ambit": "Int. África", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/nbstelevision/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "NDR Niedersachsen Alemania": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/ndrniedersachsen/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "NHK World Japan": {
+        "ambit": "Int. Asia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/nhkworld/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "NORTEvisión": {
+        "ambit": "Canarias", 
+        "label_photocall": "NORTEvisión (Canarias)", 
+        "logo": "https://graph.facebook.com/aljoamyvisual/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "NTN24 América": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/NTN24/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Navarra TV": {
+        "ambit": "C. Foral de Navarra", 
+        "label_photocall": "Navarra Televisión", 
+        "logo": "https://graph.facebook.com/NavarraTelevision/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Negocios TV": {
+        "ambit": "Informativos", 
+        "label_photocall": "Negocios TV (Madrid)", 
+        "logo": "https://pbs.twimg.com/profile_images/1321367703731523584/bNMmbetI_200x200.jpg", 
+        "options": []
+    }, 
+    "Neox": {
+        "ambit": "Generalistas", 
+        "label_photocall": "Neox [geo]", 
+        "logo": "https://graph.facebook.com/neox/picture?width=200&height=200", 
+        "options": [
+            {
+                "source": "atresplayer", 
+                "url": "/a3?ch=neox"
+            }
+        ]
+    }, 
+    "Nesting TV": {
+        "ambit": "C. de Madrid", 
+        "label_photocall": "Nesting TV (Madrid)", 
+        "logo": "https://servidor10.xyz/images/nestingtv.png", 
+        "options": []
+    }, 
+    "New Delhi TV 24x7 India": {
+        "ambit": "Int. Asia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/ndtv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Newsmax TV USA": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/newsmax/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Nex TV Panamá": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/nextvpanama/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Nicavisión TV Nicaragua": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/200823376627607/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Nippon News TV Japan": {
+        "ambit": "Int. Asia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/ntvnews24/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Nius": {
+        "ambit": "Informativos", 
+        "label_photocall": "NIUS", 
+        "logo": "https://graph.facebook.com/NiusDiario/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Nord": {
+        "ambit": "Cataluña", 
+        "label_photocall": "Nord", 
+        "logo": "https://servidor10.xyz/images/nord.png", 
+        "options": []
+    }, 
+    "Noroeste TV": {
+        "ambit": "Canarias", 
+        "label_photocall": "Noroeste Televisión (Canarias)", 
+        "logo": "https://graph.facebook.com/noroestetvladesiempre/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Noticias Caracol Colombia": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Nova": {
+        "ambit": "Generalistas", 
+        "label_photocall": "Nova [geo]", 
+        "logo": "https://graph.facebook.com/novatdt/picture?width=200&height=200", 
+        "options": [
+            {
+                "source": "atresplayer", 
+                "url": "/a3?ch=nova"
+            }
+        ]
+    }, 
+    "NumberOne Turquía": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/Number1FM/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Nós TV": {
+        "ambit": "Galicia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/NosTelevision/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "OKLIGA TV": {
+        "ambit": "Deportivos", 
+        "label_photocall": "", 
+        "logo": "https://yt3.ggpht.com/ytc/AKedOLRCpkRZNcBfZLGvM1SO_Qf77p_xtv6OnU26aa23Vw=s200-c-k-c0x00ffffff-no-rj", 
+        "options": []
+    }, 
+    "ON TV Portugal": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/ONFM93.8/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Ocko Chequia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/tvocko/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Ocko Expres Chequia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/OckoExpres/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Ocko Star Chequia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/ockostar/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Oizmendi TV": {
+        "ambit": "País Vasco", 
+        "label_photocall": "Infosare Oizmendi GITB 28 Kanala Erlo (País Vasco)", 
+        "logo": "https://graph.facebook.com/oizmenditelebista/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Olot TV": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/olotelevisio/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Olympic Channel TV": {
+        "ambit": "Deportivos Int.", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/olympics/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Oman TV": {
+        "ambit": "Int. Asia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/OmanTvGeneral/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Onda 15 TV": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "Onda 15 (Valencia)", 
+        "logo": "https://graph.facebook.com/Onda15Radio/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Onda Algeciras TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "OATV Onda Algeciras TV (Andalucía)", 
+        "logo": "https://graph.facebook.com/ondaalgecirastv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Onda Cádiz": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Onda Cádiz Televisión (Andalucía)", 
+        "logo": "https://graph.facebook.com/ondacadiz/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Onda Cádiz 24h": {
+        "ambit": "Andalucía", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/ondacadiz/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Onda Digital Perú": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/OndaDigitalPeru/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Onda Jerez TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Onda Jerez (Andalucía)", 
+        "logo": "https://graph.facebook.com/OndaJerezRTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Onda Rusa RTV": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "Onda Rusa RTV (Valencia)", 
+        "logo": "https://servidor10.xyz/images/ondarusartv.png", 
+        "options": []
+    }, 
+    "Onda Valencia": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "Onda Valencia", 
+        "logo": "https://graph.facebook.com/ondavalenciatv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "OndaMezquita 7 TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Ondamezquita 7TV (Andalucía)", 
+        "logo": "https://graph.facebook.com/7TVOndaMezquita/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "One TV": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "One TV (Valencia)", 
+        "logo": "https://servidor10.xyz/images/one.png", 
+        "options": []
+    }, 
+    "OnlyMotors": {
+        "ambit": "Deportivos Int.", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/onlymotors/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Otto FM Italia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/Ottotivu/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "PTV Córdoba": {
+        "ambit": "Andalucía", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/PTVCOR/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "PTV Granada": {
+        "ambit": "Andalucía", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/PTVGranada/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "PTV Linares": {
+        "ambit": "Andalucía", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/tvlinares/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "PTV Málaga": {
+        "ambit": "Andalucía", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/PTVMalaga/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "PTV Sevilla": {
+        "ambit": "Andalucía", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/SevillaPTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "PTV Telecom": {
+        "ambit": "Andalucía", 
+        "label_photocall": "PTV Telecom (Andalucía)", 
+        "logo": "https://servidor10.xyz/images/ptv.png", 
+        "options": []
+    }, 
+    "Paka Paka": {
+        "ambit": "Infantiles", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/canalpakapaka/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Panamericana Perú": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/panamericana.pe/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Paramount Network": {
+        "ambit": "Generalistas", 
+        "label_photocall": "Paramount Network", 
+        "logo": "https://graph.facebook.com/ParamountNetworkES/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Parlamento de Andalucía": {
+        "ambit": "Andalucía", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/parlamentodeandalucia.es/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Parlamento de La Rioja": {
+        "ambit": "La Rioja", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/ParlamentodeLaRioja/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Parlamento de Navarra": {
+        "ambit": "C. Foral de Navarra", 
+        "label_photocall": "", 
+        "logo": "https://pbs.twimg.com/profile_images/781100367295676417/XVWdJQD0_200x200.jpg", 
+        "options": []
+    }, 
+    "Pequeradio TV": {
+        "ambit": "Infantiles", 
+        "label_photocall": "Pequeradio TV (Valencia)", 
+        "logo": "https://graph.facebook.com/Pequeradio/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Piera TV": {
+        "ambit": "Cataluña", 
+        "label_photocall": "Piera Televisió (Cataluña)", 
+        "logo": "https://yt3.ggpht.com/WtsIUXtvmo0QQFYhj9qbxpttucZF0ZElx8oju9r7ISrKfn9GHBuRR7s9JN4YRnzvbLr6GiUtWQ=s200-c-k-c0x00ffffff-no-rj", 
+        "options": []
+    }, 
+    "Pocoyó": {
+        "ambit": "Infantiles", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/pocoyo/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Popular TV Cantabria": {
+        "ambit": "Cantabria", 
+        "label_photocall": "PTV Popular TV Cantabria Melilla Murcia", 
+        "logo": "https://graph.facebook.com/populartvcantabria/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Popular TV Melilla": {
+        "ambit": "Melilla", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/populartvml/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Popular TV Murcia": {
+        "ambit": "R. de Murcia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/poptvregiondemurcia/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Portal Foxmix Colombia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://yt3.ggpht.com/ytc/AAUvwnj90kC8kqjZ69oiVT718JUs9iedB5o1w9cKfApo=s200-c-k-c0x00ffffff-no-rj", 
+        "options": []
+    }, 
+    "Porto Canal Portugal": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/portocanal/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Power TV Turquía": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/powerapp/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Punt 3 Vall Uixó": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "Punt 3 (Valencia)", 
+        "logo": "https://graph.facebook.com/Punt3Television/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "QMusic Holanda": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/QmusicNL/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Quiero TV Mexico": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/quierotvGDL/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "R 101 Italia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/radioR101/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "RASD TV": {
+        "ambit": "Int. África", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/televisionsaharaui/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "RCD Espanyol de Barcelona TV": {
+        "ambit": "Deportivos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/RCDEspanyol/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "RCD Mallorca TV": {
+        "ambit": "Deportivos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/RCDMallorcaOficial/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "RT": {
+        "ambit": "Informativos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/ActualidadRT/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "RT Documentary": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/RTDocumentary/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "RT News": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/RTnews/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "RTCG Montenegro": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/PortalRTCG/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "RTHK 31 32 Hong Kong": {
+        "ambit": "Int. Asia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/RTHK.HK/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "RTL 102.5 Italia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/RTL102.5/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "RTP 1 Portugal": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/rtp1.pt/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "RTP 2 Portugal": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/rtpdois/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "RTP 3 Portugal": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/rtp/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "RTP Açores Portugal": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/rtpacores/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "RTP Madeira Portugal": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/rtpmadeira/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "RTV Cardedeu": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/TelevisioCardedeu/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "RTV Diocesana Toledo España": {
+        "ambit": "Religiosos", 
+        "label_photocall": "", 
+        "logo": "https://pbs.twimg.com/profile_images/668768296888631296/H1frmj8P_200x200.jpg", 
+        "options": []
+    }, 
+    "RTV El Vendrell": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/rtvelvendrell/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "RTV Mogán": {
+        "ambit": "Canarias", 
+        "label_photocall": "Radio Televisión Mogán (Canarias)", 
+        "logo": "https://graph.facebook.com/radiotelevisionmogan/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "RTV Tarifa": {
+        "ambit": "Andalucía", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/RTVTARIFA/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "RTV Ulldecona": {
+        "ambit": "Cataluña", 
+        "label_photocall": "Ràdio TV Ulldecona (Cataluña)", 
+        "logo": "https://graph.facebook.com/radioulldecona/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "RTV Vida España": {
+        "ambit": "Religiosos", 
+        "label_photocall": "RTV RadioTelevision Vida (Murcia)", 
+        "logo": "https://pbs.twimg.com/profile_images/1359486927406321664/WZXLfd2h_200x200.jpg", 
+        "options": []
+    }, 
+    "RTV Vilafranca": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/rtvvilafranca/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "RTV10 Sesrovires": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/rtv10sesrovires/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "RTVCE": {
+        "ambit": "Ceuta", 
+        "label_photocall": "RTVCE Radiotelevisión Ceuta", 
+        "logo": "https://graph.facebook.com/RTVCE/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "RTÉ News Irlanda": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/rtenews/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Radio 21 Rock'n Pop Alemania": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/RADIO21germany/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Radio 3": {
+        "ambit": "Eventuales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/radio3/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Radio Italia TV": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/radioitalia/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Radio Montecarlo Italia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/radiomontecarlo/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Radio Nacional": {
+        "ambit": "Eventuales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/radionacionalrne/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "RadioU TV USA": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/RadioU/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Rai News 24 Italia": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/rainews.it/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Real Federación Española de Fútbol": {
+        "ambit": "Deportivos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/RFEF/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Real Sociedad TV": {
+        "ambit": "Deportivos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/RealSociedadFutbol/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Real Time Italia": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/realtimeitalia/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "RealMadrid TV": {
+        "ambit": "Deportivos", 
+        "label_photocall": "Real Madrid TV", 
+        "logo": "https://graph.facebook.com/RealMadrid/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Record News Brasil": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/recordnews/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Red Pat Bolivia": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/patboliviahd/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Redbull TV": {
+        "ambit": "Deportivos Int.", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/RedBull/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Rede Massa Brasil": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/RedeMassaOficial/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Redevida Brasil": {
+        "ambit": "Religiosos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/redevida/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Religión COPE España": {
+        "ambit": "Religiosos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/religioncope/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Republic World TV India": {
+        "ambit": "Int. Asia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/RepublicWorld/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Retro Music TV Chequia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/retromusic/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Retro Plus TV Chile": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/retroplustv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Ribera TV": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "Grup Televisió RHV Ribera TV (Valencia)", 
+        "logo": "https://graph.facebook.com/grup.televisio/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Rock TV Romania": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/rockfmro/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "RÚV Islandia": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/RUVohf/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "SBT Interior Brasil": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/sbtnointerior/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "SET News Taiwán": {
+        "ambit": "Int. Asia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/setnews/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "STZ Telebista España": {
+        "ambit": "Musicales", 
+        "label_photocall": "STZ Telebista (País Vasco)", 
+        "logo": "https://graph.facebook.com/StzGrupo/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Sal TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Sal Televisión (Andalucía)", 
+        "logo": "https://graph.facebook.com/SalTelevision/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "San Marino RTV": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/SanMarinoRTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Secret Story 24h": {
+        "ambit": "Generalistas", 
+        "label_photocall": "Secret Story", 
+        "logo": "https://graph.facebook.com/SecretStoryEs/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "SenTV Senegal": {
+        "ambit": "Int. África", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/sentvtelevision/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Sevilla TV": {
+        "ambit": "Deportivos", 
+        "label_photocall": "SFC Sevilla Fútbol Club Televisión (Andalucía)", 
+        "logo": "https://graph.facebook.com/sevillafc/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Señal Colombia": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Sión TV": {
+        "ambit": "R. de Murcia", 
+        "label_photocall": "Sión TV (Murcia)", 
+        "logo": "https://servidor10.xyz/images/siontv.png", 
+        "options": []
+    }, 
+    "Sky News UK": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/skynews/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Solidaria TV España": {
+        "ambit": "Religiosos", 
+        "label_photocall": "Solidaria TV (Madrid)", 
+        "logo": "https://graph.facebook.com/solidariatv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Sonus FM Alemania": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/sonusfmpage/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Spektra TV España": {
+        "ambit": "Musicales", 
+        "label_photocall": "SpektraTV (Valencia)", 
+        "logo": "https://graph.facebook.com/SpektraTelevision/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Spirit TV USA": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://pbs.twimg.com/profile_images/825104000341012480/ip1tcW4n_200x200.jpg", 
+        "options": []
+    }, 
+    "Stadium USA": {
+        "ambit": "Deportivos Int.", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/watchstadium/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Super3": {
+        "ambit": "Cataluña", 
+        "label_photocall": "33 Super3 (Cataluña)", 
+        "logo": "https://graph.facebook.com/clubsuper3/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TAC 12": {
+        "ambit": "Cataluña", 
+        "label_photocall": "TAC 12 (Cataluña)", 
+        "logo": "https://graph.facebook.com/tacdotze/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TBN España": {
+        "ambit": "Religiosos", 
+        "label_photocall": "TBN España (Madrid)", 
+        "logo": "https://graph.facebook.com/TBNEspana/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TC TV Ecuador": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/tctelevision10/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TEF": {
+        "ambit": "Illes Balears", 
+        "label_photocall": "TEF Televisió d'Eivissa i Formentera (Baleares)", 
+        "logo": "https://graph.facebook.com/TEFTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TELE13 Chile": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/teletrece/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TG7": {
+        "ambit": "Andalucía", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/TG7tv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TPA7": {
+        "ambit": "P. de Asturias", 
+        "label_photocall": "RTPA TPA7 (Asturias)", 
+        "logo": "https://graph.facebook.com/RTPAoficial/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TRECE": {
+        "ambit": "Generalistas", 
+        "label_photocall": "13 Trece", 
+        "logo": "https://graph.facebook.com/TRECEtves/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TRT Haber Turquía": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/trthaber/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV 4 Vall de Uxó": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/TV4LaVall/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV Almassora": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "TVA Almassora (Valencia)", 
+        "logo": "https://graph.facebook.com/tvalmassora/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV Aranda": {
+        "ambit": "Castilla y León", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/575943555801687/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV Artequatre": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/tvArtequatre/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV Benavente": {
+        "ambit": "Castilla y León", 
+        "label_photocall": "Benavente (Castilla y León)", 
+        "logo": "https://graph.facebook.com/benaventetv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV Canaria": {
+        "ambit": "Canarias", 
+        "label_photocall": "RTVC Radiotelevisión Canaria (Canarias)", 
+        "logo": "https://graph.facebook.com/188600904655/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV Carmona": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Televisión Carmona", 
+        "logo": "https://graph.facebook.com/126011457417096/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV Castelló": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "TVCS Televisió de Castelló (Valencia)", 
+        "logo": "https://graph.facebook.com/TelevisiondeCastellon/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV Centro Andalucía": {
+        "ambit": "Andalucía", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/TVCentroAndalucia/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV Costa Brava": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/tvcostabrava/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV Extremeña": {
+        "ambit": "Extremadura", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/TELEVISIONEXTREMENA/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV Ferrol": {
+        "ambit": "Galicia", 
+        "label_photocall": "Televisión Ferrol", 
+        "logo": "https://graph.facebook.com/tvferrol/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV Hellín": {
+        "ambit": "Castilla-La Mancha", 
+        "label_photocall": "Television Hellin (Castilla-La Mancha)", 
+        "logo": "https://graph.facebook.com/tvhellin/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV L'Hospitalet": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/lhdigital/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV Perú": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV Perú Noticias": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV Pública Argentina": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/TVPublica/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV Rioja": {
+        "ambit": "La Rioja", 
+        "label_photocall": "TVR Rioja", 
+        "logo": "https://graph.facebook.com/tvrtelevision/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV Sabadell Vallès": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/tvsabadellvalles/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV Sant Cugat": {
+        "ambit": "Cataluña", 
+        "label_photocall": "TV Sant Cugat (Cataluña)", 
+        "logo": "https://graph.facebook.com/tvsantcugat/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV Vega Baja": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "Televisión Vega Baja (Valencia)", 
+        "logo": "https://graph.facebook.com/TVVegaBaja/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV de Girona": {
+        "ambit": "Cataluña", 
+        "label_photocall": "Televisió de Girona (Cataluña)", 
+        "logo": "https://graph.facebook.com/tvgirona/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV de San Vicente": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "Televisión de San Vicente (Valencia)", 
+        "logo": "https://graph.facebook.com/televisiondesanvicente/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV de Sant Martí": {
+        "ambit": "Cataluña", 
+        "label_photocall": "TV Sant Martí (Cataluña)", 
+        "logo": "https://graph.facebook.com/1397103013646307/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV del Berguedà": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/televisiodelbergueda/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV del Ripollès": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/televisiodelripolles/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV3": {
+        "ambit": "Cataluña", 
+        "label_photocall": "TV3 (Cataluña)", 
+        "logo": "https://graph.facebook.com/tv3/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV3 Càmeres": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/eltempsTV3/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV3CAT": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/tv3/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TV5Monde Francia": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/tv5mondeofficiel/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TVBS News Taiwán": {
+        "ambit": "Int. Asia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/tvbsfb/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TVG": {
+        "ambit": "Galicia", 
+        "label_photocall": "TVG Galicia Europa América Xabarín Momentos Musigal Cultura", 
+        "logo": "https://graph.facebook.com/CRTVG/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TVG 2": {
+        "ambit": "Galicia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/CRTVG/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TVG América": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/CRTVG/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TVG Cultura": {
+        "ambit": "Galicia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/CRTVG/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TVG Eventos": {
+        "ambit": "Galicia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/CRTVG/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TVG Momentos G": {
+        "ambit": "Galicia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/CRTVG/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TVG Musigal": {
+        "ambit": "Galicia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/CRTVG/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TVG Xabarin": {
+        "ambit": "Galicia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/oxabarinclub/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TVGE 1 Guinea Ecuatorial": {
+        "ambit": "Int. África", 
+        "label_photocall": "", 
+        "logo": "http://www.tvgelive.gq/images/logo-dark.png", 
+        "options": []
+    }, 
+    "TVK Camboya": {
+        "ambit": "Int. Asia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/tvkchannel7/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TVM Córdoba": {
+        "ambit": "Andalucía", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/TVM.Cordoba/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TVR Int. Rumania": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://yt3.ggpht.com/ytc/AKedOLQPhatBUYxLNlDGhiNXlV_asQCDPHa_MfnUy4Nr=s200-c-k-c0x00ffffff-no-rj", 
+        "options": []
+    }, 
+    "Talking Tom and Friends": {
+        "ambit": "Infantiles", 
+        "label_photocall": "", 
+        "logo": "https://yt3.ggpht.com/a/AATXAJwpm-5h1rjcPqno5uANZr75VhhCYKv4PS02gLUS0A=s200-c-k-c0x00ffffff-no-rj", 
+        "options": []
+    }, 
+    "Tarot": {
+        "ambit": "Otros", 
+        "label_photocall": "Tarot", 
+        "logo": "https://servidor10.xyz/images/tarot.png", 
+        "options": []
+    }, 
+    "Tastemade": {
+        "ambit": "Int. Otros", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/TastemadeEs/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Tele 7": {
+        "ambit": "País Vasco", 
+        "label_photocall": "Tele7 (País Vasco)", 
+        "logo": "https://graph.facebook.com/Tele7Radio7/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TeleAmazonas Ecuador": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/TeleamazonasEcuador/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TeleArchena": {
+        "ambit": "R. de Murcia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/telearchena.es/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TeleBilbao": {
+        "ambit": "País Vasco", 
+        "label_photocall": "TB TeleBilbao (País Vasco)", 
+        "logo": "https://graph.facebook.com/312994995454199/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TeleDiario Costa Rica": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/MultimediosCR/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TeleElx": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "TeleElx (Valencia)", 
+        "logo": "https://graph.facebook.com/teleelx/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TeleGilena": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Telegilena (Andalucía)", 
+        "logo": "https://graph.facebook.com/tele.gilena/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TeleRibera": {
+        "ambit": "C. Foral de Navarra", 
+        "label_photocall": "TeleRibera (Navarra)", 
+        "logo": "https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_200x200.jpg", 
+        "options": []
+    }, 
+    "TeleSUR Venezuela": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/teleSUR/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TeleToledo": {
+        "ambit": "Castilla-La Mancha", 
+        "label_photocall": "TeleToledo (Castilla-La Mancha)", 
+        "logo": "https://graph.facebook.com/Teletoledo/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "TeleVigo": {
+        "ambit": "Galicia", 
+        "label_photocall": "TeleVigo (Galicia)", 
+        "logo": "https://graph.facebook.com/televigo/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Teleantioquia Colombia": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/CanalTeleantioquia/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Telecinco": {
+        "ambit": "Generalistas", 
+        "label_photocall": "5 Telecinco", 
+        "logo": "https://graph.facebook.com/tele5/picture?width=200&height=200", 
+        "options": [
+            {
+                "source": "mediaset", 
+                "url": "telecinco"
+            }
+        ]
+    }, 
+    "Teledeporte": {
+        "ambit": "Deportivos", 
+        "label_photocall": "TDP Teledeporte [geo]", 
+        "logo": "https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Teledifusão de Macau": {
+        "ambit": "Int. Asia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/Canal.Macau/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Telefé Noticias Argentina": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/telefe/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Teleganés": {
+        "ambit": "C. de Madrid", 
+        "label_photocall": "Teleganés (Madrid)", 
+        "logo": "https://graph.facebook.com/1423419417957760/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Telemadrid": {
+        "ambit": "C. de Madrid", 
+        "label_photocall": "Telemadrid", 
+        "logo": "https://graph.facebook.com/telemadrid/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Telemicro República Dominicana": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/telemicro5/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Telemiño": {
+        "ambit": "Galicia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/teleminho/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Telemotril": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Telemotril (Andalucía)", 
+        "logo": "https://graph.facebook.com/telemotriltv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Telemúsica Colombia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/telemusica.hit/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Teleonuba": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Teleonuba (Andalucía)", 
+        "logo": "https://graph.facebook.com/Teleonuba/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Telepacifico Colombia": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/TelepacificoTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Telequivir": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Telequivir (Andalucía)", 
+        "logo": "https://graph.facebook.com/telequivirtv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Telesur Madrid": {
+        "ambit": "C. de Madrid", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/telesurmadrid/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Televen TV Venezuela": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/TelevenTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Televisa News Mexico": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/FOROtv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Television Consciente": {
+        "ambit": "C. de Madrid", 
+        "label_photocall": "Television Consciente (Madrid)", 
+        "logo": "https://servidor10.xyz/images/consciente.png", 
+        "options": []
+    }, 
+    "Televisión Aranda": {
+        "ambit": "Castilla y León", 
+        "label_photocall": "Televisión Aranda (Castilla y León)", 
+        "logo": "https://servidor10.xyz/images/aranda.png", 
+        "options": []
+    }, 
+    "Televisión de Alicante": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "Televisión de Alicante (Valencia)", 
+        "logo": "https://graph.facebook.com/televisiondealicante/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Televixin Malta": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/TelevisionMalta/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Televizija Eslovenia": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/Televizija.Slovenija/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Telécija": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Telécija Televisión Comarcal (Andalucía)", 
+        "logo": "https://graph.facebook.com/telecija.televisioncomarcal/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Ten": {
+        "ambit": "Generalistas", 
+        "label_photocall": "TEN", 
+        "logo": "https://graph.facebook.com/televisionten/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Tenerife TV": {
+        "ambit": "Canarias", 
+        "label_photocall": "Tenerife TV", 
+        "logo": "https://servidor10.xyz/images/tenerifetv.png", 
+        "options": []
+    }, 
+    "Tevequatre TV": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "TV4 Teve 4 Televisión de la Vall d'Uixó (Valencia)", 
+        "logo": "https://graph.facebook.com/teve4televisio/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "The Good Life Radio": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://yt3.ggpht.com/a/AATXAJw_0O4Q7vmQvtqUOGDFHS3GQZaH2OKMnc3_1itvxg=s200-c-k-c0xffffffff-no-rj-mo", 
+        "options": []
+    }, 
+    "The K-POP Korea": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://pbs.twimg.com/profile_images/1224570939972575232/KSiGcUtU_200x200.jpg", 
+        "options": []
+    }, 
+    "The Weather Channel USA": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/TheWeatherChannel/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Times Now India": {
+        "ambit": "Int. Asia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/Timesnow/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Todo Noticias Argentina": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/todonoticias/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Tomorrowland TV": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/tomorrowland/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Top Latino TV Perú": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/toplatinotv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Torreciudad": {
+        "ambit": "Aragón", 
+        "label_photocall": "Torreciudad (Aragón)", 
+        "logo": "https://servidor10.xyz/images/torreciudad.png", 
+        "options": []
+    }, 
+    "Torrevisión": {
+        "ambit": "Andalucía", 
+        "label_photocall": "TTV Torremolinos Televisión (Andalucía)", 
+        "logo": "https://graph.facebook.com/torremolinostv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Trebujena TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "", 
+        "logo": "https://bopiweb.com/imagenes/2580/tomo.1.M-3503739-3.jpg", 
+        "options": []
+    }, 
+    "Trece Costa Rica": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/SinartTreceCostaRica/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Trece Paraguay": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/trecepy/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Trinidad and Tobago Television": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/tttliveonline/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Turistik TV Mexico": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/turistikmedia/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Tuya La Janda TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/tuyalajandatv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "UD Las Palmas TV": {
+        "ambit": "Deportivos", 
+        "label_photocall": "UDLP Unión Deportiva Las Palmas (Canarias)", 
+        "logo": "https://graph.facebook.com/udlaspalmasoficial/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "UHD Spain": {
+        "ambit": "Generalistas", 
+        "label_photocall": "", 
+        "logo": "https://i.ibb.co/PCK083P/UHD-Spain.png", 
+        "options": []
+    }, 
+    "UNTV News & Rescue Filipinas": {
+        "ambit": "Int. Asia", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/UNTVNewsRescue/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Une Vinalopó": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/UneVinalopo/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Unicanal Paraguay": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/Unicanal/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "United Nations TV": {
+        "ambit": "Int. Otros", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/unitednations/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Univers TV": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "Univers TV (Valencia)", 
+        "logo": "https://graph.facebook.com/UniversValenciaMedia/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Urola TV": {
+        "ambit": "País Vasco", 
+        "label_photocall": "UTB Urola Telebista (País Vasco)", 
+        "logo": "https://graph.facebook.com/urolatelebista/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Uvitel TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Uvitel TV (Andalucía)", 
+        "logo": "https://graph.facebook.com/uviteltv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "V2Beat TV": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/vtwobeat/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "VOTV": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/votv.cat/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "VPI TV Venezuela": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/vpitv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Vallès Visió": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/tvvallesvisio/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Vatican News": {
+        "ambit": "Religiosos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/vaticannews.es/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Venezolana de Televisión": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/VTVtuCanal/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Villafranca TV": {
+        "ambit": "Extremadura", 
+        "label_photocall": "", 
+        "logo": "https://pbs.twimg.com/profile_images/1180389927709810688/BgzpxkjA_200x200.jpg", 
+        "options": []
+    }, 
+    "Vintage Music TV": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/vintagemusicgroup/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "VinxTV Asturias": {
+        "ambit": "Deportivos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/VinxTV/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Virgin Radio Italia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/virginradioitaly/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Visión 6 TV": {
+        "ambit": "Castilla-La Mancha", 
+        "label_photocall": "V6 Vision 6 Televisión (Castilla-La Mancha)", 
+        "logo": "https://graph.facebook.com/104927246235553/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Vital TV": {
+        "ambit": "C. de Madrid", 
+        "label_photocall": "Vital TV (Madrid)", 
+        "logo": "https://servidor10.xyz/images/vitaltv.png", 
+        "options": []
+    }, 
+    "WIPR TV Puerto Rico": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/wiprtv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "WTV Nicaragua": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/WtvNuevaGuinea/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Warner Bros Kids": {
+        "ambit": "Infantiles", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/WarnerBrosPicturesEspana/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "WeatherNation USA": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/WeatherNation/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Webcam OndaMadrid": {
+        "ambit": "C. de Madrid", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/ondamadridradio/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Willax Perú": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/willaxtv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "World Padel Tour": {
+        "ambit": "Deportivos Int.", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/worldpadeltour/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "XL Música TV": {
+        "ambit": "Musicales", 
+        "label_photocall": "XL Música TV (Madrid)", 
+        "logo": "https://servidor10.xyz/images/xlmtv.png", 
+        "options": []
+    }, 
+    "Xaloa Telebista": {
+        "ambit": "C. Foral de Navarra", 
+        "label_photocall": "Xaloa Telebista (País Vasco)", 
+        "logo": "https://graph.facebook.com/xaloatb/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Zafra TV": {
+        "ambit": "Extremadura", 
+        "label_photocall": "ZF Zafra Televisión (Extremadura)", 
+        "logo": "https://graph.facebook.com/ZFtelevision/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "betevé": {
+        "ambit": "Cataluña", 
+        "label_photocall": "BTV Betevé (Cataluña)", 
+        "logo": "https://graph.facebook.com/betevecat/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "etv": {
+        "ambit": "Cataluña", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/etv.llobregat/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "franceinfo: Francia": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/franceinfo/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "laSexta": {
+        "ambit": "Generalistas", 
+        "label_photocall": "6 La Sexta", 
+        "logo": "https://graph.facebook.com/laSexta/picture?width=200&height=200", 
+        "options": [
+            {
+                "source": "atresplayer", 
+                "url": "/a3?ch=lasexta"
+            }
+        ]
+    }, 
+    "m2o Italia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/radiom2o/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "mtmad 24h": {
+        "ambit": "Generalistas", 
+        "label_photocall": "Mtmad", 
+        "logo": "https://graph.facebook.com/mtmad.es/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "telesafor": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "Tele Safor (Valencia)", 
+        "logo": "https://graph.facebook.com/Tele7Safor/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "teve.cat": {
+        "ambit": "Cataluña", 
+        "label_photocall": "Teve.cat (Cataluña)", 
+        "logo": "https://pbs.twimg.com/profile_images/1252212600923979776/Z8ANYZqX_200x200.jpg", 
+        "options": []
+    }, 
+    "À Punt": {
+        "ambit": "C. Valenciana", 
+        "label_photocall": "À Punt (Valencia)", 
+        "logo": "https://graph.facebook.com/apuntmedia/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "ÉL TV": {
+        "ambit": "C. de Madrid", 
+        "label_photocall": "ÉL TV (Madrid)", 
+        "logo": "https://servidor10.xyz/images/eltv.png", 
+        "options": []
+    }, 
+    "Écija Comarca TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Écija Comarca TV (Andalucía)", 
+        "logo": "https://servidor10.xyz/images/ecija.png", 
+        "options": []
+    }
+}
