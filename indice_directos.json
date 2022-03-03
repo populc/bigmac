@@ -167,6 +167,12 @@
         "logo": "https://graph.facebook.com/8TvJerez/picture?width=200&height=200", 
         "options": []
     }, 
+    "8madrid": {
+        "ambit": "C. de Madrid", 
+        "label_photocall": "", 
+        "logo": "https://servidor10.xyz/images/8madrid.png", 
+        "options": []
+    }, 
     "9 la Loma TV": {
         "ambit": "Andalucía", 
         "label_photocall": "9laLoma (Andalucía)", 
@@ -3939,6 +3945,12 @@
         "ambit": "C. de Madrid", 
         "label_photocall": "Vital TV (Madrid)", 
         "logo": "https://servidor10.xyz/images/vitaltv.png", 
+        "options": []
+    }, 
+    "Viva Murcia": {
+        "ambit": "R. de Murcia", 
+        "label_photocall": "", 
+        "logo": "https://servidor10.xyz/images/vivamurcia.png", 
         "options": []
     }, 
     "WIPR TV Puerto Rico": {
