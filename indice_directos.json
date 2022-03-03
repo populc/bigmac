@@ -169,7 +169,7 @@
     }, 
     "8madrid": {
         "ambit": "C. de Madrid", 
-        "label_photocall": "", 
+        "label_photocall": "8madrid", 
         "logo": "https://servidor10.xyz/images/8madrid.png", 
         "options": []
     }, 
@@ -3949,7 +3949,7 @@
     }, 
     "Viva Murcia": {
         "ambit": "R. de Murcia", 
-        "label_photocall": "", 
+        "label_photocall": "Viva Murcia", 
         "logo": "https://servidor10.xyz/images/vivamurcia.png", 
         "options": []
     }, 
