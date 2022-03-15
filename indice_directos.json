@@ -239,10 +239,10 @@
         "logo": "https://estatics.montserratvisita.com/img/imgTxtGenerals/foto_banners_nous_base117.jpg", 
         "options": []
     }, 
-    "Activa TV": {
-        "ambit": "C. Valenciana", 
+    "Activa TV España": {
+        "ambit": "Musicales", 
         "label_photocall": "Activa TV (Valencia)", 
-        "logo": "https://servidor10.xyz/images/activatv.png", 
+        "logo": "https://graph.facebook.com/activafm.radiomusical/picture?width=200&height=200", 
         "options": []
     }, 
     "Afortunadas TV": {
@@ -1128,6 +1128,12 @@
         "logo": "https://graph.facebook.com/SabadoCADENA100/picture?width=200&height=200", 
         "options": []
     }, 
+    "Decisión Radio": {
+        "ambit": "Religiosos", 
+        "label_photocall": "Decisión Radio (Madrid)", 
+        "logo": "https://rndserv.xyz/images/radio/decision.png", 
+        "options": []
+    }, 
     "Del 40 al 1": {
         "ambit": "Eventuales", 
         "label_photocall": "", 
@@ -1221,6 +1227,12 @@
         "ambit": "Religiosos", 
         "label_photocall": "", 
         "logo": "https://graph.facebook.com/ewtnespanol/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Ecclesia COPE España": {
+        "ambit": "Religiosos", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/ecclesiacope/picture?width=200&height=200", 
         "options": []
     }, 
     "El 10 del Barça": {
@@ -1411,6 +1423,12 @@
         "ambit": "Deportivos Int.", 
         "label_photocall": "", 
         "logo": "https://graph.facebook.com/FIBA/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "FOX Live Now USA": {
+        "ambit": "Int. América", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/livenowfox/picture?width=200&height=200", 
         "options": []
     }, 
     "FOX News USA": {
@@ -1953,6 +1971,12 @@
         "logo": "https://graph.facebook.com/la8zamora/picture?width=200&height=200", 
         "options": []
     }, 
+    "La Fábrica TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "La Fábrica TV (Andalucía)", 
+        "logo": "https://rndserv.xyz/images/lafabricatv.png", 
+        "options": []
+    }, 
     "La Karibeña Perú": {
         "ambit": "Musicales", 
         "label_photocall": "", 
@@ -2247,6 +2271,12 @@
         "options": []
     }, 
     "Muzzik Cafe&Club Serbia": {
+        "ambit": "Musicales", 
+        "label_photocall": "", 
+        "logo": "https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png", 
+        "options": []
+    }, 
+    "Muzzik Flashback Serbia": {
         "ambit": "Musicales", 
         "label_photocall": "", 
         "logo": "https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png", 
@@ -3024,12 +3054,6 @@
         "logo": "https://graph.facebook.com/redevida/picture?width=200&height=200", 
         "options": []
     }, 
-    "Religión COPE España": {
-        "ambit": "Religiosos", 
-        "label_photocall": "", 
-        "logo": "https://graph.facebook.com/religioncope/picture?width=200&height=200", 
-        "options": []
-    }, 
     "Republic World TV India": {
         "ambit": "Int. Asia", 
         "label_photocall": "", 
@@ -3470,7 +3494,7 @@
     }, 
     "TVM Córdoba": {
         "ambit": "Andalucía", 
-        "label_photocall": "", 
+        "label_photocall": "TVMC Televisión Municipal de Córdoba (Andalucía)", 
         "logo": "https://graph.facebook.com/TVM.Cordoba/picture?width=200&height=200", 
         "options": []
     }, 
@@ -3951,6 +3975,18 @@
         "ambit": "R. de Murcia", 
         "label_photocall": "Viva Murcia", 
         "logo": "https://servidor10.xyz/images/vivamurcia.png", 
+        "options": []
+    }, 
+    "VivamóvilTV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "VivamóvilTV (Andalucía)", 
+        "logo": "https://rndserv.xyz/images/vivamoviltv.png", 
+        "options": []
+    }, 
+    "WDR Alemania": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/WDR/picture?width=200&height=200", 
         "options": []
     }, 
     "WIPR TV Puerto Rico": {
