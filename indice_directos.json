@@ -346,6 +346,12 @@
         "logo": "https://graph.facebook.com/aragondeporte/picture?width=200&height=200", 
         "options": []
     }, 
+    "Aragón Noticias": {
+        "ambit": "Aragón", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/AragonNoticias/picture?width=200&height=200", 
+        "options": []
+    }, 
     "Aragón TV": {
         "ambit": "Aragón", 
         "label_photocall": "Aragón TV", 
@@ -2844,7 +2850,7 @@
         "logo": "https://graph.facebook.com/RTnews/picture?width=200&height=200", 
         "options": []
     }, 
-    "RTCG Montenegro": {
+    "RTCG SAT Montenegro": {
         "ambit": "Int. Europa", 
         "label_photocall": "", 
         "logo": "https://graph.facebook.com/PortalRTCG/picture?width=200&height=200", 
@@ -3977,10 +3983,10 @@
         "logo": "https://servidor10.xyz/images/vivamurcia.png", 
         "options": []
     }, 
-    "VivamóvilTV": {
+    "Vivamóvil TV": {
         "ambit": "Andalucía", 
         "label_photocall": "VivamóvilTV (Andalucía)", 
-        "logo": "https://rndserv.xyz/images/vivamoviltv.png", 
+        "logo": "https://graph.facebook.com/VivamovilTV/picture?width=200&height=200", 
         "options": []
     }, 
     "WDR Alemania": {
