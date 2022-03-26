@@ -23,6 +23,12 @@
         "logo": "https://graph.facebook.com/1music/picture?width=200&height=200", 
         "options": []
     }, 
+    "1+1 Ucrania": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/1plus1.ua/picture?width=200&height=200", 
+        "options": []
+    }, 
     "101 TV Antequera": {
         "ambit": "Andalucía", 
         "label_photocall": "101 TV Málaga Antequera (Andalucía)", 
@@ -449,7 +455,7 @@
     }, 
     "Barça TV": {
         "ambit": "Deportivos", 
-        "label_photocall": "", 
+        "label_photocall": "FCBarcelona Barça TV (Cataluña)", 
         "logo": "https://graph.facebook.com/fcbarcelona/picture?width=200&height=200", 
         "options": []
     }, 
@@ -1759,6 +1765,12 @@
         "ambit": "Illes Balears", 
         "label_photocall": "IB3 (Baleares)", 
         "logo": "https://graph.facebook.com/IB3org/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "ICTV Ucrania": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/ICTVchannel/picture?width=200&height=200", 
         "options": []
     }, 
     "ITV Información TV": {
@@ -3867,6 +3879,12 @@
         "ambit": "Int. Asia", 
         "label_photocall": "", 
         "logo": "https://graph.facebook.com/UNTVNewsRescue/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Ukraine 24 Ucrania": {
+        "ambit": "Int. Europa", 
+        "label_photocall": "", 
+        "logo": "https://graph.facebook.com/www.ukraine24.ua/picture?width=200&height=200", 
         "options": []
     }, 
     "Une Vinalopó": {
