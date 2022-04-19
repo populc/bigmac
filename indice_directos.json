@@ -145,7 +145,7 @@
     }, 
     "7TV Andalucía": {
         "ambit": "Andalucía", 
-        "label_photocall": "7TV Andalucía", 
+        "label_photocall": "7TV Andalucía Ondamezquita", 
         "logo": "https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200", 
         "options": []
     }, 
@@ -1410,7 +1410,7 @@
     }, 
     "Europa Press": {
         "ambit": "Informativos", 
-        "label_photocall": "", 
+        "label_photocall": "Europa Press", 
         "logo": "https://rndserv.xyz/images/europapress.png", 
         "options": []
     }, 
