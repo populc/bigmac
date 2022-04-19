@@ -1,10 +1,4 @@
 {
-    "": {
-        "ambit": "", 
-        "label_photocall": "", 
-        "logo": "", 
-        "options": []
-    }, 
     "+24": {
         "ambit": "Eventuales", 
         "label_photocall": "", 
@@ -151,7 +145,7 @@
     }, 
     "7TV Andalucía": {
         "ambit": "Andalucía", 
-        "label_photocall": "7TV Andalucía Ondamezquita", 
+        "label_photocall": "7TV Andalucía", 
         "logo": "https://graph.facebook.com/7TelevisionAndalucia/picture?width=200&height=200", 
         "options": []
     }, 
@@ -195,6 +189,12 @@
         "ambit": "Castilla y León", 
         "label_photocall": "", 
         "logo": "https://graph.facebook.com/987live/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "987 TV": {
+        "ambit": "Castilla y León", 
+        "label_photocall": "987 TV (Castilla y León)", 
+        "logo": "https://rndserv.xyz/images/987tv.png", 
         "options": []
     }, 
     "ABC Australia": {
@@ -653,6 +653,12 @@
         "ambit": "Musicales", 
         "label_photocall": "", 
         "logo": "https://graph.facebook.com/CaliforniaMusicChannel/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Campiña Sur TV": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Campiña Sur TV (Andalucía)", 
+        "logo": "https://rndserv.xyz/images/campinasur.png", 
         "options": []
     }, 
     "Canal 10 Empordà": {
@@ -1400,6 +1406,12 @@
         "ambit": "Int. Europa", 
         "label_photocall": "", 
         "logo": "https://graph.facebook.com/es.euronews/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Europa Press": {
+        "ambit": "Informativos", 
+        "label_photocall": "", 
+        "logo": "https://rndserv.xyz/images/europapress.png", 
         "options": []
     }, 
     "Excelsior Mexico": {
@@ -2163,6 +2175,12 @@
         "logo": "https://graph.facebook.com/maestrat.tv/picture?width=200&height=200", 
         "options": []
     }, 
+    "Mancha Centro TV": {
+        "ambit": "Castilla-La Mancha", 
+        "label_photocall": "Mancha Centro TV (Castilla-La Mancha)", 
+        "logo": "https://rndserv.xyz/images/manchacentro.png", 
+        "options": []
+    }, 
     "Manzanares10TV": {
         "ambit": "Castilla-La Mancha", 
         "label_photocall": "Manzanares10TV (Castilla-La Mancha)", 
@@ -2790,7 +2808,7 @@
         "logo": "https://graph.facebook.com/poptvregiondemurcia/picture?width=200&height=200", 
         "options": []
     }, 
-    "Portal Foxmix Colombia": {
+    "Portal Foxmix Chile": {
         "ambit": "Musicales", 
         "label_photocall": "", 
         "logo": "https://yt3.ggpht.com/ytc/AAUvwnj90kC8kqjZ69oiVT718JUs9iedB5o1w9cKfApo=s200-c-k-c0x00ffffff-no-rj", 
@@ -3861,6 +3879,12 @@
         "ambit": "Andalucía", 
         "label_photocall": "", 
         "logo": "https://graph.facebook.com/tuyalajandatv/picture?width=200&height=200", 
+        "options": []
+    }, 
+    "Tuya TV La Janda": {
+        "ambit": "Andalucía", 
+        "label_photocall": "Tuya TV La Janda (Andalucía)", 
+        "logo": "https://rndserv.xyz/images/tuyatv.png ", 
         "options": []
     }, 
     "UD Las Palmas TV": {
